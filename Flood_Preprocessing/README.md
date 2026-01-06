@@ -1,1 +1,1 @@
-Foldeh Hasil Preprocessing
+Folder Hasil Preprocessing
